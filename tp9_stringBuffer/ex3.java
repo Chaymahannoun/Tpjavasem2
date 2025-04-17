@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercice3 {
+public class ex3 {
     public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
          System.out.print("Entrez une chaîne de caractères (max 20 caractères) : ");
